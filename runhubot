@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export HUBOT_SLACK_TOKEN=xoxb-79071346902-iKrigvlscVZtQ70zaTm3toEo
+export HUBOT_SLACK_TEAM=PBL2016-14
+export HUBOT_SLACK_BOTNAME=opi
+
+bin/hubot --adapter slack
